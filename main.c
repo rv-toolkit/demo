@@ -6,4 +6,3 @@ int main() {
   printf("%d\n", (x = 1) + (x = 2));
   return 0;
 }
-

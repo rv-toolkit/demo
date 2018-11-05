@@ -5,4 +5,3 @@ script:
 #==============================================================================
 # This will download rv-toolkit docker image with tag "nightly" and run `.rv.sh` file.
 # More images could be found at: https://hub.docker.com/r/runtimeverification/rv-sandbox/tags/
-#

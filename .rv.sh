@@ -17,4 +17,3 @@ touch ./my_errors.json && rv-html-report ./my_errors.json -o $report_path
 # Upload your HTML report to RV-Toolkit website with `rv-upload-report` command.
 # Please note that `rv-upload-report` only accepts absolute path of HTML report.
 rv-upload-report $report_path
-
